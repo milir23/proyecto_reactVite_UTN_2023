@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className='footer margsec'>
       <div>
-        <img src="./src/assets/image6.png" alt="logo" />
+        <img src="./src/assets/image6.png" alt="logo"/>
       </div>
       <div>
         <a href="#">Sobre Nosotros</a>
