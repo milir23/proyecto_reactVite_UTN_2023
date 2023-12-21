@@ -9,6 +9,7 @@ import Footer from './components/Footer/Footer.jsx';
 import './App.css';
 
 
+
 const App = () => {
   const [titulos, setTitulos] = useState([]);
   const [favorites, setFavorites] = useState([]);
